@@ -81,4 +81,4 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-Built by [Vanshaj Pahwa](https://github.com/vanshaj-pahwa)
+Fork of the original project built by [Vanshaj Pahwa](https://github.com/vanshaj-pahwa)
